@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">frame</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="quick_start_turn_on">第一次使用时，\n时</string>
+    <string name="quick_start_turn_on_small">小字部分</string>
+
+
+    <string name = "install_step1">将羽毛球硬件按图中所示方法安装在硅胶套中，使硅胶的丝扣位于羽毛球硬件的表面，羽毛球两侧的凹槽卡住硅胶套内环</string>
+    <string name = "install_step2">将羽毛球硬件连同硅胶套套于球拍上，开启羽球硬件即可正常使用，正常安装后的效果如图所示。</string>
+    <string name = "install_step3">正确安装后的效果图如图所示，设备轴线方向与拍框方向保持一致。</string>
+</resources>
